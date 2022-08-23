@@ -12,16 +12,16 @@ npx scaffdog generate ファイル名
 
 ## 生成されるファイル
 
-- `app name /documents/designs/specification.md`
-- `app name /src/app.ts`
-- `app name /src/drivers/logger.ts`
-- `app name /src/usecase/index.ts`
-- `app name /.dockerignore`
-- `app name /.eslintrc.js`
-- `app name /.prettierc`
-- `app name /.gitignore`
-- `app name /.prettierignore`
-- `app name /docker-compose.yml`
-- `app name /Dockerfile`
-- `app name /tsconfig.eslint.json`
-- `app name /README.md`
+- `appName/documents/designs/specification.md`
+- `appName/src/app.ts`
+- `appName/src/drivers/logger.ts`
+- `appName/src/usecase/index.ts`
+- `appName/.dockerignore`
+- `appName/.eslintrc.js`
+- `appName/.prettierc`
+- `appName/.gitignore`
+- `appName/.prettierignore`
+- `appName/docker-compose.yml`
+- `appName/Dockerfile`
+- `appName/tsconfig.eslint.json`
+- `appName/README.md`
