@@ -7,7 +7,17 @@ questions:
   name: 'Please enter a app name.'
 ---
 
-# `{{ inputs.name | lower }}/documents/designs/`
+# `{{ inputs.name | lower }}/documents/designs/specification.md`
+
+```md
+# 仕様
+
+## 目的
+
+## 方針
+
+## 機能
+```
 
 # `{{ inputs.name | lower }}/src/app.ts`
 
