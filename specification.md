@@ -8,7 +8,7 @@
 
 ### scaffdog を実行
 
-`/cube/tools/template-nodejs`
+`cube/tools/template-nodejs`
 
 ```sh
 npm run scaffdog
@@ -16,7 +16,7 @@ npm run scaffdog
 
 ### 階層を選択
 
-`/cube/tools/template-nodejs`
+`cube/tools/template-nodejs`
 
 ```sh
 ? Please select the output destination directory. (Use arrow keys or type to search)
@@ -24,11 +24,11 @@ npm run scaffdog
 ❯ ../../  => こちらを選択
 ```
 
-`cube/` 配下に生成し、 `mv` コマンドで移動します
+`cube` 配下に生成し、 `mv` コマンドで移動します
 
 ### アプリケーション名を入力
 
-`/cube/tools/template-nodejs`
+`cube/tools/template-nodejs`
 
 ```sh
 ? Please enter a app name. appName
@@ -36,7 +36,7 @@ npm run scaffdog
 
 ### 階層を移動
 
-`/cube`
+`cube`
 
 ```sh
 mv ./appName ./services/messaging
