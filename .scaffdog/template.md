@@ -17,4 +17,7 @@ questions:
 ## 方針
 
 ## 機能
+
+{{ inputs.name | slice 0 15 }}
+
 ```
